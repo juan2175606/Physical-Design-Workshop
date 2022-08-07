@@ -347,7 +347,9 @@ Here finally, we write in the commands box, 'plot y vs time a' and we will see t
   <img src="https://i.imgur.com/U8N8rwv.jpg" />
 </p>
 
-To end day 3, some DRC exercises were done
+To end day 3, some DRC exercises were done, for that, it was downloaded with the following command
+
+`wget http://www.opencircuitdesign.com/open_pdks/archive/drc_test.tgz`
 
 <p align="center">
   <img src="https://i.imgur.com/txkENNp.jpg" />
