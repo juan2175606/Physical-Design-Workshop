@@ -814,7 +814,7 @@ In the next path, you can see the file .gds and .mag
 Now we open to be able to the routing, and we can see that it was a success
 
 <p align="center">
-  <img src="https://i.imgur.com/UDZRCoh.jpg" />
+  <img src="https://i.imgur.com/Zxy2Rwg.jpg" />
 </p>
 
 <p align="center">
@@ -822,6 +822,10 @@ Now we open to be able to the routing, and we can see that it was a success
 </p>
 
 Here We can see the file .gds
+
+<p align="center">
+  <img src="https://i.imgur.com/UDZRCoh.jpg" />
+</p>
 
 <p align="center">
   <img src="https://i.imgur.com/Ni4fXnP.jpg" />
