@@ -814,13 +814,16 @@ In the next path, you can see the file .gds and .mag
 Now we open to be able to the routing, and we can see that it was a success
 
 <p align="center">
-  <img src="https://i.imgur.com/Zxy2Rwg.jpg" />
+  <img src="https://i.imgur.com/UDZRCoh.jpg" />
 </p>
 
 <p align="center">
   <img src="https://i.imgur.com/X3QU5O8.jpg" />
 </p>
 
+<p align="center">
+  <img src="https://i.imgur.com/Ni4fXnP.jpg" />
+</p>
 
 Finally we can see the photograph taken by the run_magic command, where we see our finished chip.
 
