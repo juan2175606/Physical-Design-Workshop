@@ -752,6 +752,7 @@ however, We have a error
 For fix it, I have wrote the next command
 
 `set ::env(GLB_RT_ADJUSTMENT) 0`
+
 `run_routing`
 
 There I had many DRC errors, so I ran a synthesis explorer to know the best configuration of the tcl.
